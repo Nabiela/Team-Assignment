@@ -9,7 +9,12 @@ import java.util.Scanner;
 
 /**
  *
- * @author Team
+ * @author Team :
+ * NABIELA SARAH
+ * YOSIA CHENDY WIJAYANTO
+ * RAHMA PUJI PRATIWI
+ * ALI CHOHEN SAMOSIR
+ * AQIL HENRI FAIQ
  */
 public class Team {
 
